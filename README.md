@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AR3728
+- 👋 Hi, I’m Aryan Verma(@AR3728)
 - 👀 I’m interested in Programming, webdev and blockchain
 - 🌱 I’m currently learning c++ and JS 
 
