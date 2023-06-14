@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aryan Verma(@AR3728)
-- 👀 I’m interested in Programming, webdev and blockchain
+- 👀 I’m interested in Programming, webdev.
 - 🌱 I’m currently learning c++ and JS 
 
 <!---
